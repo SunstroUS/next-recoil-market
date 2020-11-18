@@ -1,6 +1,6 @@
 # next-recoil-market
 
-> Personal demo of me trying Next.js with Recoil.
+> Personal demo of me trying Next.js with Recoil by building a simple market.
 
 ### Description
 
